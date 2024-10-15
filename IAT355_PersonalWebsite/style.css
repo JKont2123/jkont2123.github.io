@@ -116,6 +116,7 @@ main {
 
 svg {
     border: solid lightgrey;
+    margin-left: 3rem;
 }
 
 .container {
